@@ -7,6 +7,6 @@ Necesitas el archivo sql<br>
  Necesitas el archibo zip <br><br>
 
 ----Usuarios----<br>
--para cliente puedes usar cici@gmail.com contraseña cici1234
+-para cliente puedes usar cici@gmail.com contraseña cici1234 <br>
 -para admin puedes usar dezx@gmail.con contra:dezx1234
 
